@@ -1,0 +1,9 @@
+{
+    "name": "jo/pdc10-classes",
+    "autoload": {
+        "psr-4": {
+            "Jo\\Pdc10Classes\\": "src/"
+        }
+    },
+    "require": {}
+}
